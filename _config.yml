@@ -1,0 +1,20 @@
+title: <p align="center"> Abhishek J </p>
+
+#logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+ # <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com">LinkedIn</a> |
+  <a href="https://github.com">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing Data Analysis after my MA Degree in Economics.
+  <br><br>
+  I am currently working on various business projects and real world data competitions conducted by Codebascics and Maven Analytics .
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+#google_analytics: UA-145578661-1 # Google Analytics tracking ID
